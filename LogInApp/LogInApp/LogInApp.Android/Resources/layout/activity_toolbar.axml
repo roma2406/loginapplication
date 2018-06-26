@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolmenu">
+    <item
+        android:id="@+id/addUser"
+        android:icon="@drawable/drawable_adduser"
+        android:showAsAction="ifRoom"
+        android:title="1" />
+    <item
+        android:id="@+id/addRole"
+        android:icon="@drawable/ic_addrole"
+        android:showAsAction="ifRoom"
+        android:title="2" />
+</menu>

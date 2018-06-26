@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hello">Hello World, Click Me!</string>
+  <string name="app_name">LogInApp</string>
+  <string name="log_in_name">Enter name, please</string>
+  <string name="log_in_password">Enter password, please</string>
+  <string name="log_in">Log In</string>
+
+  <string name="username">Enter new user name</string>
+  <string name="usersurname">Enter new user surname</string>
+  <string name="userrole">Enter new user role</string>
+  <string name="userlogin">Enter new user login</string>
+  <string name="userpassword">Enter new user password</string>
+  <string name="newuser">Add New User</string>
+
+  <string name="addrole">Add New Role</string>
+  <string name="rolename">Enter new role name</string>
+
+  <string name="DBString">C:\Users\rlesh\Desktop\AppDB.db</string>
+</resources>

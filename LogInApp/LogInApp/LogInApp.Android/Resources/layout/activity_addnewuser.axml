@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eeeeeeee">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/newusername"
+        android:textColorHint="#77777777"
+        android:textColor="#222222"
+        android:hint="@string/username" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/newusersurname"
+        android:textColorHint="#77777777"
+        android:textColor="#222222"
+        android:hint="@string/usersurname" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/newuserrole"
+        android:textColorHint="#77777777"
+        android:textColor="#222222"
+        android:hint="@string/userrole" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/newuserlogin"
+        android:textColorHint="#77777777"
+        android:textColor="#222222"
+        android:hint="@string/userlogin" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/newuserpassword"
+        android:textColorHint="#77777777"
+        android:textColor="#222222"
+        android:hint="@string/userpassword" />
+    <Button
+        android:text="@string/newuser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/adduser" />
+    <Button
+        android:text="@string/newuser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/deleteuser" />
+</LinearLayout>
